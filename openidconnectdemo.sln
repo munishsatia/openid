@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openidconnectdemo", "openidconnectdemoserver\openidconnectdemo.csproj", "{FF267392-F544-40E3-8B06-CAEC54DD466F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFAF9D0-CAFA-4476-B231-35F7987527A7}
+	EndGlobalSection
+EndGlobal
