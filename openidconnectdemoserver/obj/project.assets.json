@@ -12568,12 +12568,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "Y:\\_munish\\Code\\github\\openidconnectdemo\\openidconnectdemo\\openidconnectdemo.csproj",
+      "projectUniqueName": "Y:\\_munish\\Code\\github\\openidconnectdemo\\openidconnectdemoserver\\openidconnectdemo.csproj",
       "projectName": "openidconnectdemo",
-      "projectPath": "Y:\\_munish\\Code\\github\\openidconnectdemo\\openidconnectdemo\\openidconnectdemo.csproj",
+      "projectPath": "Y:\\_munish\\Code\\github\\openidconnectdemo\\openidconnectdemoserver\\openidconnectdemo.csproj",
       "packagesPath": "C:\\Users\\msatia\\.nuget\\packages\\",
-      "outputPath": "Y:\\_munish\\Code\\github\\openidconnectdemo\\openidconnectdemo\\obj\\",
+      "outputPath": "Y:\\_munish\\Code\\github\\openidconnectdemo\\openidconnectdemoserver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12608,13 +12611,13 @@
             "version": "2.0.0",
             "autoReferenced": true
           },
-          "identityserver4": {
-            "target": "Package",
-            "version": "2.0.1"
-          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "2.0.0"
+          },
+          "identityserver4": {
+            "target": "Package",
+            "version": "2.0.1"
           }
         },
         "imports": [
