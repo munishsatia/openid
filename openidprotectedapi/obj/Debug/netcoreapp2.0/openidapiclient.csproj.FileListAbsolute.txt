@@ -1,0 +1,11 @@
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\bin\Debug\netcoreapp2.0\openidapiclient.deps.json
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\bin\Debug\netcoreapp2.0\openidapiclient.runtimeconfig.json
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\bin\Debug\netcoreapp2.0\openidapiclient.runtimeconfig.dev.json
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\bin\Debug\netcoreapp2.0\openidapiclient.dll
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\obj\Debug\netcoreapp2.0\openidapiclient.csprojResolveAssemblyReference.cache
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\obj\Debug\netcoreapp2.0\openidapiclient.csproj.CoreCompileInputs.cache
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\obj\Debug\netcoreapp2.0\openidapiclient.AssemblyInfoInputs.cache
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\obj\Debug\netcoreapp2.0\openidapiclient.AssemblyInfo.cs
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\bin\Debug\netcoreapp2.0\openidapiclient.pdb
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\obj\Debug\netcoreapp2.0\openidapiclient.dll
+Y:\_munish\Code\github\openidconnectdemo\openidapiclient\obj\Debug\netcoreapp2.0\openidapiclient.pdb
