@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openidconnectdemo", "openidconnectdemoserver\openidconnectdemo.csproj", "{FF267392-F544-40E3-8B06-CAEC54DD466F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "openidconnectserver", "openidconnectserver\openidconnectserver.csproj", "{FF267392-F544-40E3-8B06-CAEC54DD466F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "openidprotectedapi", "openidprotectedapi\openidprotectedapi.csproj", "{57274910-C6CC-457A-B0C9-07F40BB98361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openidconnectclient", "openidconnectclient\openidconnectclient.csproj", "{9D38DD5D-66F0-45DF-AC37-AD9368C61181}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF267392-F544-40E3-8B06-CAEC54DD466F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57274910-C6CC-457A-B0C9-07F40BB98361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57274910-C6CC-457A-B0C9-07F40BB98361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57274910-C6CC-457A-B0C9-07F40BB98361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57274910-C6CC-457A-B0C9-07F40BB98361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D38DD5D-66F0-45DF-AC37-AD9368C61181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D38DD5D-66F0-45DF-AC37-AD9368C61181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D38DD5D-66F0-45DF-AC37-AD9368C61181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D38DD5D-66F0-45DF-AC37-AD9368C61181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
